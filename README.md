@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Belajar berkolaborasi di GitHub 1
+Belajar berkolaborasi di GitHub 2
