@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Belajar berkolaborasi di GitHub sangatlah menyenangkan.
+Belajar berkolaborasi di GitHub
